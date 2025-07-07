@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Aditya Sinha
 
-<!--
-**sinhaaditya9241/sinhaaditya9241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSDA Student @ IIT Patna | 📈 Finance & Quant Enthusiast | 💻 Python Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do:
+- 📊 Backtest & automate trading strategies using Python (Forex, BankNIFTY, EUR/USD)
+- 📘 Learning Quantitative Finance & Data Analytics
+- 🎓 NISM Certified
+- 📚 Working through Python for Finance
+
+---
+
+## 🧠 Skills:
+- Python, Pandas, NumPy, Matplotlib, yfinance, Backtrader
+- Web: Flask, Django (beginner)
+- Tools: MetaTrader 5, Excel, Power BI
+
+---
+
+## 📌 Featured Projects:
+- Retail Trader Risk Management Assistant (RTRMA)
+---
+
+## 📫 Let’s Connect:
+- [LinkedIn](https://www.linkedin.com/in/aditya-405437360/)
+- [GitHub](https://github.com/sinhaaditya9241)
