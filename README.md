@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aditya Sinha
+# 👋 Hi, I'm Aditya 
 
 🎓 CSDA Student @ IIT Patna | 📈 Finance & Quant Enthusiast | 💻 Python Developer  
 
