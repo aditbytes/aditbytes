@@ -5,10 +5,11 @@
 ---
 
 ## 🚀 What I Do:
-- 📊 Backtest & automate trading strategies using Python (Forex, BankNIFTY, EUR/USD)
+- 📊 Backtest & automate trading strategies using Python
 - 📘 Learning Quantitative Finance & Data Analytics
 - 🎓 NISM Certified
 - 📚 Working through Python for Finance
+- full stack development
 
 ---
 
@@ -16,11 +17,13 @@
 - Python, Pandas, NumPy, Matplotlib, yfinance, Backtrader
 - Web: Flask, Django (beginner)
 - Tools: MetaTrader 5, Excel, Power BI
+- mern stack
 
 ---
 
 ## 📌 Featured Projects:
-- Retail Trader Risk Management Assistant (RTRMA)
+-
+-
 ---
 
 ## 📫 Let’s Connect:
