@@ -9,7 +9,7 @@
 - 📘 Learning Quantitative Finance & Data Analytics
 - 🎓 NISM Certified
 - 📚 Working through Python for Finance
-- full stack development
+- 🕸️ full stack development
 
 ---
 
