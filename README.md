@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Aditya
-**B.sc CSDA @ IIT PATNA || Python  || Tech & Passionate About Quant, Finance, and Data**
+**B.S CSDA @ IIT PATNA || Python  || Tech & Passionate About Quant, Finance, and Data**
 
 Email Me 👉 ✉️ **kraditya9241@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
