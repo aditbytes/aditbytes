@@ -8,8 +8,7 @@ Email Me 👉 ✉️ **kraditya9241@gmail.com** For Collaboration/Project or Any
 - 📫 **How to reach me:** kraditya9241@gmail.com
 - 😄 **Pronouns:** Adit
 - ⚡ **Fun fact:** i love finance and finance love me 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sinhaaditya9241&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sin.haaditya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kraditya9241@gmail.com) 
 
