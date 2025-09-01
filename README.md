@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **kraditya9241@gmail.com** For Collaboration/Project or Any
 - 🌱 **I’m currently learning:** Python, C++, Data Analysis & MERN Stack
 - 📫 **How to reach me:** kraditya9241@gmail.com
 - 😄 **Pronouns:** Adit 
-<img align ="right " alt = "coding" width = "400" src = "./image.png">
+<img align ="right " alt = "coding" width = "300" src = "./image.png">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sin.haaditya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-405437360) 
