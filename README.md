@@ -1,13 +1,12 @@
 # 💫 Hi 👋, I'm Aditya
-**B.S CSDA @ IIT PATNA || Python  || Tech & Passionate About Quant, Finance, and Data**
+**B.S CSDA @ IIT PATNA || Python & C++ || Tech & Passionate About Quant, Finance, and Data**
 
 Email Me 👉 ✉️ **kraditya9241@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** 
-- 🌱 **I’m currently learning:** Python, Data Anatysis & MERN Stack
+- 🌱 **I’m currently learning:** Python, C++, Data Anatysis & MERN Stack
 - 📫 **How to reach me:** kraditya9241@gmail.com
-- 😄 **Pronouns:** Adit
-- ⚡ **Fun fact:** i love finance and finance love me 
+- 😄 **Pronouns:** Adit 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sin.haaditya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kraditya9241@gmail.com) <br/>
